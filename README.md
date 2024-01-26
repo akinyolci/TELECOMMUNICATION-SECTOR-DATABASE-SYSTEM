@@ -301,13 +301,8 @@ SELECT * FROM vw_abone_bilgi;
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- 
- <p> Bu şekilde sıfırdan bir VM kurup, istenilen tüm işlemleri gerçekleştirip, sonda da dockerize etmiş olduk. </p>
- 
-  <p> Teşekkürler </p>
-  <a href="https://github.com/akinyolci/WebServer-GCP" class="button">Daha Fazla Bilgi</a>
-  <br>
-  <a href="mailto:akinyolcu0@gmail.com" class="button">Iletisim</a>
+  
+  <a href="mailto:akinyolcu0@gmail.com" class="button">Contact</a>
 
   
   
